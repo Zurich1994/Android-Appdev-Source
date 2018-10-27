@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes-849bc8519987e851815a91c40961fad788168bf4.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes-931b3c74fdc4dd23e6e709662a2e15108812261d.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\exploded-aar\com.android.support\support-v13\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-e2e116966afe46974ff993b27462d9ce45b2efd9.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-e3b7f8a2a811f835683e4baba032739855413c42.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\jars\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-0fc5b561d71f59a7be437e4b754dd1bc7f5aaff0.jar" />
+    </item>
+    <item
+        jar="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="D:\Android\SDK\samples\android-23\content\webview\PermissionRequest\Application\build\intermediates\pre-dexed\debug\classes-33b82481192b13035d2ee264917ea63fa687c057.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable/img4.png
+SHA1-Digest: u9VhkF7NyxKQ5sDH5jPgt6hvXiQ=
+
+Name: res/drawable/img6.png
+SHA1-Digest: rDidXza5aN7BwoepFydPmlrP4nU=
+
+Name: res/drawable/img2.png
+SHA1-Digest: X4T0MX10CQzH8JY1I15/4XhUH98=
+
+Name: resources.arsc
+SHA1-Digest: kI2/l1+Z0Swp2v0dTTn6PBQGM2Q=
+
+Name: classes.dex
+SHA1-Digest: XDjMqd+xEyq60IHJafroVu3OYj0=
+
+Name: res/drawable/img3.png
+SHA1-Digest: oIsDzi8NXu2EGzwZmOcXbAJaoNI=
+
+Name: res/layout/main.xml
+SHA1-Digest: Qvtm49Dd2anJK4nlSVNSF3GphsQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: AVnzoigM4Bv45GQy/o0NOQv9U2Y=
+
+Name: res/drawable/icon.png
+SHA1-Digest: 7xizMYuoK0G55atqZU5G+9iBNGs=
+
+Name: res/drawable/img8.png
+SHA1-Digest: NYudf5/4hMOfshIGL8fkOzj7P8o=
+
+Name: res/drawable/img1.png
+SHA1-Digest: U2WSbKDRVpHqZYuyaXT+2+u8GBM=
+
+Name: res/drawable/img7.png
+SHA1-Digest: zTV36loXP2TvC1iJbQMauxkmUEA=
+
+Name: res/drawable/img5.png
+SHA1-Digest: VuK9z7erJQ3APvr09Z1igjGtkoQ=
+
